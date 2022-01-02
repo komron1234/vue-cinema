@@ -559,7 +559,7 @@ ol {
 }
 *::-webkit-scrollbar-thumb {
   background-color: var(--yellow);
-  border-radius: 10px;
+  border-radius: 9px;
 }
 
 /* scroll end */
